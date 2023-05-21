@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+
+.col-md-2{
+  background: #61dafb;
+}
+.row{
+  --bs-gutter-x: 0rem;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  text-decoration: none;
+  color: white;
+}
+
+.input-group{
+  margin: 10px 0;
+  width: 90%;
+  color: gray;
+}
+
+.form{
+  margin: 20px 10px;
+}
